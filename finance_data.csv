@@ -1,0 +1,33 @@
+date,amount,category,description
+01-08-2024,1000,Income,Salary
+02-08-2024,50,Expense,Groceries
+03-08-2024,150,Expense,Utilities
+04-08-2024,200,Income,Freelance Work
+05-08-2024,75,Expense,Restaurant
+06-08-2024,100,Expense,Transport
+07-08-2024,500.0,Income,Bonus
+08-08-2024,30,Expense,Snacks
+09-08-2024,250,Income,Stock Dividends
+10-08-2024,90,Expense,Entertainment
+11-08-2024,60,Expense,Coffee
+12-08-2024,120,Expense,Gas
+13-08-2024,80,Expense,Books
+14-08-2024,150,Expense,Clothing
+15-08-2024,1100,Income,Salary
+16-08-2024,40,Expense,Stationery
+17-08-2024,180,Expense,Utilities
+18-08-2024,250,Income,Freelance Work
+19-08-2024,70,Expense,Restaurant
+20-08-2024,130,Expense,Transport
+21-08-2024,600,Income,Bonus
+22-08-2024,35,Expense,Snacks
+23-08-2024,300,Income,Stock Dividends
+24-08-2024,100,Expense,Entertainment
+25-08-2024,55,Expense,Coffee
+26-08-2024,140,Expense,Gas
+27-08-2024,90,Expense,Books
+28-08-2024,170,Expense,Clothing
+29-08-2024,1200,Income,Salary
+30-08-2024,45,Expense,Stationery
+31-08-2024,190,Expense,Utilities
+
